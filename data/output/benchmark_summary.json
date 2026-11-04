@@ -1,0 +1,34 @@
+{
+  "duration_summary": {
+    "extraction": {
+      "average_seconds": 0.26685456667716306,
+      "maximum_seconds": 0.3056685000192374,
+      "minimum_seconds": 0.23891309997998178
+    },
+    "generation": {
+      "average_seconds": 0.5385237666778266,
+      "maximum_seconds": 0.5747502001468092,
+      "minimum_seconds": 0.49746179999783635
+    },
+    "loading": {
+      "average_seconds": 2.064060299890116,
+      "maximum_seconds": 2.193611199967563,
+      "minimum_seconds": 1.8956568997818977
+    },
+    "total_pipeline": {
+      "average_seconds": 3.143258099987482,
+      "maximum_seconds": 3.2615243999753147,
+      "minimum_seconds": 2.9372632999438792
+    },
+    "transformation": {
+      "average_seconds": 0.4337717666445921,
+      "maximum_seconds": 0.44907750003039837,
+      "minimum_seconds": 0.42466739984229207
+    },
+    "validation": {
+      "average_seconds": 0.3785632000459979,
+      "maximum_seconds": 0.4043233001139015,
+      "minimum_seconds": 0.3365406999364495
+    }
+  }
+}

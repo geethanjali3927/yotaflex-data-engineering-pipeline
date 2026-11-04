@@ -1,0 +1,9 @@
+[project]
+name = "customers-orders-data-pipeline"
+version = "0.1.0"
+description = "A beginner-friendly local data pipeline demonstration."
+requires-python = ">=3.14,<3.15"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
