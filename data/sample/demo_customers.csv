@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,signup_date,country_code,status,phone
+CUST-001,Alicia,Chen,alice.chen@example.com,2024-01-15,US,active,+12025550101
+CUST-002,Mateo,Silva,mateo.silva@example.com,2023-08-03,MX,active,0551234567
+CUST-003,Priya,Nair,priya.nair@example.com,2025-02-20,IN,inactive,
+CUST-004,Jordan,Reed,not-an-email,2022-11-09,GB,active,+447700900123
+CUST-005,,Patel,sana.patel@example.com,2024-05-12,IN,active,0987654321
